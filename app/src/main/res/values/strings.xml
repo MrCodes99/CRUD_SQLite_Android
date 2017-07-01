@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Demo_CRUD_SQLite</string>
+
+
+    <array name="var_disponible">
+        <item>Activo</item>
+        <item>Inactivo</item>
+    </array>
+
+</resources>
